@@ -1,0 +1,29 @@
+{
+  "name": "matchme-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for MatchMe project",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@hookform/resolvers": "^5.0.1",
+    "@mui/icons-material": "^7.0.2",
+    "@mui/material": "^7.0.2",
+    "axios": "^1.9.0",
+    "formik": "^2.4.6",
+    "react-router-dom": "^7.5.2",
+    "react-toastify": "^11.0.5",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
